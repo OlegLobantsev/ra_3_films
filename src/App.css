@@ -1,0 +1,13 @@
+.app {
+  width: 100%;
+  max-width: 600px;
+  padding: 25px 15px;
+  margin: 0 auto;
+}
+
+.stars {
+  border-radius: 15px;
+  background-color: rgba(94, 95, 97, 0.596);
+  display: flex;
+  padding: 0 15px;
+}
